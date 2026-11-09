@@ -19,3 +19,5 @@ This is a development project, not a packaged release. Physics smoke tests have 
 `Source/` holds gameplay C++, `Content/` holds Unreal assets, and `Config/` holds engine settings. `Scripts/` contains build, import, capture and verification tools. `SourceAssets/` keeps small provenance records and the processed heightmap; raw downloads and local outputs are excluded. Further notes live in [docs](docs/).
 
 Terrain derived from swissALTI3D, **©swisstopo**. Environment assets come from Poly Haven under CC0. See [asset sources and restoration](docs/Assets.md) before redistributing assets.
+
+Project-authored work is [MIT licensed](LICENSE); third-party assets keep their own terms, including Poly Haven CC0 and swissALTI3D attribution. See [asset licensing](docs/Assets.md).

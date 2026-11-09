@@ -28,7 +28,7 @@ Poly Haven FBX, Blender files and texture downloads are omitted to avoid duplica
 
 ## Repository rights
 
-This publication does not add an open-source license to project-authored code or assets. Public visibility alone is not a grant of unrestricted reuse. Third-party assets retain their own terms above.
+Project-authored code and assets are licensed under the [MIT License](../LICENSE), copyright 2026 koboshchan. Third-party assets retain their own licenses and are not relicensed by MIT: Poly Haven assets remain CC0, and swissALTI3D-derived terrain requires swisstopo source attribution under the terms linked above.
 
 ## Documentation tooling
 
