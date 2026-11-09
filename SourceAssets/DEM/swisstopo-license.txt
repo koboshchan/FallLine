@@ -1,0 +1,98 @@
+[description = The terms of use for swisstopo geodata allow free use for all purposes and oblige the user to indicate the source.]
+[og:type = article]
+[twitter:title = Terms of use for free geodata and geoservices (OGD) from swisstopo]
+[Skip to main content](https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices#main-content)
+
+Swiss federal authorities
+
+Language dropdown English selected
+
+DE
+FR
+IT
+EN
+
+Federal Office of Topography swisstopo
+
+[Logo with Swiss flag Logo Confederation swisstopoFederal Office of Topography swisstopo](https://www.swisstopo.admin.ch/en)
+
+Search
+
+[Search](#)
+
+- [Contact](https://www.swisstopo.admin.ch/en/contactswisstopo)
+- [Geodata and applications](https://www.swisstopo.admin.ch/en/geodata-and-applications)
+
+Published on 26 August 2022
+
+# Terms of use for free geodata and geoservices (OGD) from swisstopo
+
+## 1. Legal basis
+
+The use of free geodata and geoservices from swisstopo is governed by the following legal bases:
+
+- Federal Act on Geoinformation (Geoinformation Act, GeoIA 510.62) Art. 10 ff
+- Ordinance on Geoinformation (Geoinformation Ordinance, 510.620) Art. 20 ff
+- swisstopo ordinance on fees and charges
+
+## 2. Terms of use
+
+The free geodata and geoservices of swisstopo may be used, distributed and made accessible. Furthermore, they may be enriched and processed and also used commercially.
+
+A reference to the source is mandatory. In the case of digital or analogue representations and publications, as well as in the case of dissemination, one of the following source references must be attached in any case:
+
+- Bundesamt für Landestopografie swisstopo
+- Office fédéral de topographie swisstopo
+- Ufficio federale di topografia swisstopo
+- Uffizi federal da topografia swisstopo
+- Federal Office of Topography swisstopo
+- ©swisstopo
+
+A different source reference must be used for the following geodata. The exact wording can be found in the documentation of the corresponding geodata:
+
+- [swissALTIRegio](https://www.swisstopo.admin.ch/en/height-model-swissaltiregio)
+- [swissEO](https://www.swisstopo.admin.ch/en/satellite-images-swisseo)
+
+## 3. Excessive use
+
+In the event of excessive use of the geoservices infrastructure, access may be restricted or refused. In such cases, swisstopo may conclude a contract with the data user.
+
+## 4. Framework conditions
+
+The [general terms of use and operating regulations of the Federal Spatial Data Infrastructure FSD](http://www.geo.admin.ch/terms-of-use)I apply.
+
+<geodata@swisstopo.ch>
+
+Version 1.3.2021
+
+**Federal Office of Topography swisstopo**  
+Seftigenstrasse 264  
+3084 Wabern
+
+- [+41 58 469 01 11](tel:+41584690111)
+- <info@swisstopo.ch>
+
+- ### Opening Hours
+
+[https://map.geo.admin.ch/#/embed?lang=en&center=2601015.3,1197470.7&z=8&topic=swisstopo&crosshair=bowl&layers=ch.bav.haltestellen-oev&bgLayer=ch.swisstopo.pixelkarte-farbe](https://map.geo.admin.ch/#/embed?lang=en&center=2601015.3,1197470.7&z=8&topic=swisstopo&crosshair=bowl&layers=ch.bav.haltestellen-oev&bgLayer=ch.swisstopo.pixelkarte-farbe)
+
+[](https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices#main-header)
+
+## About us
+
+The Federal Office of Topography "measures" Switzerland. It surveys and documents the landscape and subsoil and provides spatial geodata.
+
+## Stay informed
+
+[Facebook](https://www.facebook.com/swisstopo)[Instagram](https://www.instagram.com/swisstopo/)[Linkedin](https://www.linkedin.com/company/swisstopo)
+
+[Newsletter](https://www.swisstopo.admin.ch/en/subscribe-to-newsletter)
+
+## Further information
+
+[Contact](https://www.swisstopo.admin.ch/en/contactswisstopo)[Job vacancies](https://www.swisstopo.admin.ch/en/job-vacancies)[Media information](https://www.swisstopo.admin.ch/en/information-for-regional-national-and-international-media)
+
+- [Impressum](https://www.swisstopo.admin.ch/en/impressum-federal-office-of-topography)
+- [Legal framework](https://www.swisstopo.admin.ch/en/legal-framework)
+- [Terms and conditions](https://www.swisstopo.admin.ch/en/terms-and-conditions)
+- [Netiquette](https://www.swisstopo.admin.ch/en/swisstopo-netiquette-rules)

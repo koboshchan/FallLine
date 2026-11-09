@@ -1,0 +1,14 @@
+{
+  "verified": true,
+  "variant": "a",
+  "fbx_sha256": "8f159cf815375cc1ce4361ab08fb5f63774b4103cabb8d1847819518aa915829",
+  "axis_x_cm": 3.3741116523742676,
+  "axis_y_cm": 21.14229127764702,
+  "radius_cm": 61.93760940246784,
+  "section_z_metres": [
+    0.24999535819461016,
+    1.2499953581946102
+  ],
+  "sample_vertices": 530,
+  "method": "Actual trunk-material lowerstem crosssection bounds centre and enclosingradius; not crown geometry"
+}

@@ -1,0 +1,114 @@
+{
+  "source": "fir_tree_01_1k.blend",
+  "license": "CC0",
+  "source_url": "https://polyhaven.com/a/fir_tree_01",
+  "output": "fir_single_a.fbx",
+  "sha256": "8f159cf815375cc1ce4361ab08fb5f63774b4103cabb8d1847819518aa915829",
+  "size": 90201340,
+  "object": "fir_tree_01_a_LOD0",
+  "polygons_before": 2107255,
+  "polygons_after": 1199199,
+  "materials": [
+    "fir_tree_01_bark",
+    "fir_tree_01_trunk_a",
+    "fir_tree_01_twig",
+    "fir_tree_01_dead_branches"
+  ],
+  "bounds_metres": [
+    [
+      -3.217719554901123,
+      -2.883948802947998,
+      -5.307709216140211e-06
+    ],
+    [
+      3.312786340713501,
+      3.5390913486480713,
+      18.92540740966797
+    ]
+  ],
+  "origin_cm_in_ue": "FBX unit conversion, trunk x/y zero, root bottom z zero",
+  "uv_corner_count": 3686771,
+  "uv_corner_order_exact": true,
+  "uv_xy_roundtrip_max_error": 0.0,
+  "uv_roundtrip_verified": true,
+  "uv_parts": [
+    {
+      "material": "fir_tree_01_bark",
+      "polygons": 8052,
+      "uv_loop_count": 28798,
+      "uv_min": [
+        -0.00042830401798710227,
+        -0.0647287666797638
+      ],
+      "uv_max": [
+        1.0029826164245605,
+        1.0590858459472656
+      ],
+      "uv_std": [
+        0.32725387811660767,
+        0.1478714793920517
+      ]
+    },
+    {
+      "material": "fir_tree_01_trunk_a",
+      "polygons": 3169,
+      "uv_loop_count": 9589,
+      "uv_min": [
+        0.003873088164255023,
+        0.004788469523191452
+      ],
+      "uv_max": [
+        0.9956302642822266,
+        0.9999780654907227
+      ],
+      "uv_std": [
+        0.3207457959651947,
+        0.2778729498386383
+      ]
+    },
+    {
+      "material": "fir_tree_01_twig",
+      "polygons": 1187285,
+      "uv_loop_count": 3646181,
+      "uv_min": [
+        0.01422874815762043,
+        0.004007734823971987
+      ],
+      "uv_max": [
+        0.26327380537986755,
+        1.4634926319122314
+      ],
+      "uv_std": [
+        0.04537082463502884,
+        0.14126893877983093
+      ],
+      "alpha_samples": 187467,
+      "alpha_above_clip033": 0.977676070988494,
+      "alpha_mean": 0.9645565152168274,
+      "alpha_std": 0.1505100280046463,
+      "alpha_min": 5.549503839574754e-05,
+      "alpha_max": 1.0000240802764893
+    },
+    {
+      "material": "fir_tree_01_dead_branches",
+      "polygons": 693,
+      "uv_loop_count": 2203,
+      "uv_min": [
+        0.16000841557979584,
+        0.2128513604402542
+      ],
+      "uv_max": [
+        0.5843070149421692,
+        0.7854599356651306
+      ],
+      "uv_std": [
+        0.11031131446361542,
+        0.1641368865966797
+      ]
+    }
+  ],
+  "uv_recovery_source": "fir_tree_01_1k.blend:CORNER FLOAT_VECTOR UVMap.xy",
+  "roundtrip_verified": true,
+  "height_metres": 18.925412717377185,
+  "mesh_count": 1
+}

@@ -1,0 +1,6 @@
+newmtl OrangeTopsheet
+Kd 0.95 0.15 0.025
+newmtl GraphiteBase
+Kd 0.025 0.035 0.05
+newmtl SteelEdge
+Kd 0.48 0.53 0.58

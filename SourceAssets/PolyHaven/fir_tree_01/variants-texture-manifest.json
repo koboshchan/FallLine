@@ -1,0 +1,48 @@
+{
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/fir_tree_01",
+  "files": [
+    {
+      "path": "textures\\fir_tree_01_trunk_b_diff_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_tree_01/fir_tree_01_trunk_b_diff_1k.png",
+      "md5": "a3e4cc704875d7d8795a2b7949927952",
+      "size": 4847111,
+      "sha256": "41bd8a65e0a827646b3a33dc1607eba2082ddc25fe714752259447c49d0600cc"
+    },
+    {
+      "path": "textures\\fir_tree_01_trunk_b_nor_dx_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_tree_01/fir_tree_01_trunk_b_nor_dx_1k.png",
+      "md5": "11521688c49cffc68200746cc0bf8212",
+      "size": 4129649,
+      "sha256": "934c5f8929fdd231dadd421aa9a391248bce7799d321bdae1ed9710b72ff65df"
+    },
+    {
+      "path": "textures\\fir_tree_01_trunk_b_rough_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_tree_01/fir_tree_01_trunk_b_rough_1k.png",
+      "md5": "b251b18420d550baa7a1e81a2c19d8a3",
+      "size": 1626272,
+      "sha256": "ff399f6d054f903deee0e4d455c09f12ac3441f5c9547a0e9d06c163e6958dee"
+    },
+    {
+      "path": "textures\\fir_tree_01_trunk_c_diff_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_tree_01/fir_tree_01_trunk_c_diff_1k.png",
+      "md5": "bbf00b9de62c4d7c7b3d66a9f74d57d4",
+      "size": 5140137,
+      "sha256": "edbceb8657a036e98831a3550433ab2d78928fcf9060e400ca84748cedcaf962"
+    },
+    {
+      "path": "textures\\fir_tree_01_trunk_c_nor_dx_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_tree_01/fir_tree_01_trunk_c_nor_dx_1k.png",
+      "md5": "8c9ae873e74f92b0912d7b097965d869",
+      "size": 4450550,
+      "sha256": "840ece7e7c33bbc0c199d363f333217100cd6060968aa5b98ce0212321f037c2"
+    },
+    {
+      "path": "textures\\fir_tree_01_trunk_c_rough_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_tree_01/fir_tree_01_trunk_c_rough_1k.png",
+      "md5": "bb1f564376e3863ffa0fe91564f146e9",
+      "size": 1722380,
+      "sha256": "48fcced840b4beed4e03e09a352a67dd36185c9cd4247090069391bfb9746de9"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+These downloaded source assets are by Poly Haven and released under CC0-1.0.
+Asset page: https://polyhaven.com/a/pine_sapling_medium
+License statement: https://polyhaven.com/license
+CC0 dedication: https://creativecommons.org/publicdomain/zero/1.0/
+Downloaded 2026-11-09 UTC for Fall Line. 1K FBX plus PNG PBR textures.
+source-manifest.json records every exact URL, publisher size and MD5.
+The pine folder download-result.json records SHA256 for all 12 source files.
+FBX assets are combined on import; explicit FbxFactory bypasses Interchange.
+Materials are authored directly, not inferred from embedded file paths.
+DX normal maps are supplied, twig alpha drives a two-sided masked material.
+No automatic convex collision: level generation owns gameplay collision.

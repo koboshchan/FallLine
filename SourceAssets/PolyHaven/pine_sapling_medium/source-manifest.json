@@ -1,0 +1,55 @@
+{
+  "api": "https://api.polyhaven.com/files/pine_sapling_medium",
+  "asset": "https://polyhaven.com/a/pine_sapling_medium",
+  "license": "CC0-1.0",
+  "files": [
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/pine_sapling_medium/pine_sapling_medium_1k.fbx",
+      "md5": "6e8779858457adc985794bc83316e1f9",
+      "size": 198517884,
+      "path": "pine_sapling_medium_1k.fbx"
+    },
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.png",
+      "md5": "63688d7bcdd5ff5500f12bde192b197a",
+      "size": 5568559,
+      "path": "textures/pine_sapling_medium_bark_diff_1k.png"
+    },
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_1k.png",
+      "md5": "11e0e968b7a0a7d37c98c2b9f65228b5",
+      "size": 5640649,
+      "path": "textures/pine_sapling_medium_bark_nor_dx_1k.png"
+    },
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_rough_1k.png",
+      "md5": "dca69b84d7846af93fbb31d0c1dafd2e",
+      "size": 2488380,
+      "path": "textures/pine_sapling_medium_bark_rough_1k.png"
+    },
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.png",
+      "md5": "a4fa4a55aab9231915a4023ea9841577",
+      "size": 3208228,
+      "path": "textures/pine_sapling_medium_twig_diff_1k.png"
+    },
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_1k.png",
+      "md5": "2e044493c27b12732666ac205eb34089",
+      "size": 3017561,
+      "path": "textures/pine_sapling_medium_twig_nor_dx_1k.png"
+    },
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_rough_1k.png",
+      "md5": "8ef8f0d1cbd36b1e4578eb729fa6f0b7",
+      "size": 1342516,
+      "path": "textures/pine_sapling_medium_twig_rough_1k.png"
+    },
+    {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_alpha_1k.png",
+      "md5": "641911a5a3f543911dad04ebb26e7bca",
+      "size": 351928,
+      "path": "textures/pine_sapling_medium_twig_alpha_1k.png"
+    }
+  ]
+}

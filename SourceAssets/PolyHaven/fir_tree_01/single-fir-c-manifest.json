@@ -1,0 +1,35 @@
+{
+  "source": "fir_tree_01_1k.blend",
+  "license": "CC0",
+  "source_url": "https://polyhaven.com/a/fir_tree_01",
+  "output": "fir_single_c.fbx",
+  "sha256": "32ab8d3c43ada6591eb9369f1274f9c1bcc844d6d5ce5dcfa628ca01ccb8b1e6",
+  "size": 19788636,
+  "object": "fir_tree_01_c_LOD0",
+  "polygons_before": 255682,
+  "polygons_after": 255682,
+  "materials": [
+    "fir_tree_01_bark",
+    "fir_tree_01_twig",
+    "fir_tree_01_dead_branches",
+    "fir_tree_01_trunk_c"
+  ],
+  "bounds_metres": [
+    [
+      -2.747030735015869,
+      -2.9699645042419434,
+      0.0
+    ],
+    [
+      3.558908462524414,
+      2.9962728023529053,
+      14.520581245422363
+    ]
+  ],
+  "origin_cm_in_ue": "FBX unit conversion, trunk x/y zero, root bottom z zero",
+  "roundtrip_verified": true,
+  "mesh_count": 1,
+  "uv_exact_roundtrip": true,
+  "uv_sha256": "9b47c51467ea56a930ea9d20a216f4403aad7b2ab45d314541c3aed0a4b1f779",
+  "source_sha256": "153d20aae6d7c63a4c52689d91e8bead78f6d17a70e11ef4d03d19953383de00"
+}

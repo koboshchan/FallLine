@@ -1,0 +1,2 @@
+Terrain derived from swissALTI3D. ©swisstopo
+https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices

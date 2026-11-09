@@ -1,0 +1,31 @@
+{
+  "api": "https://api.polyhaven.com/files/boulder_01",
+  "asset": "https://polyhaven.com/a/boulder_01",
+  "license": "CC0-1.0",
+  "files": [
+    {
+      "size": 6482860,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/boulder_01/boulder_01_1k.fbx",
+      "md5": "e6079d3ddb9a71716d88274808e2d92c",
+      "path": "boulder_01_1k.fbx"
+    },
+    {
+      "size": 5625009,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/boulder_01/boulder_01_diff_1k.png",
+      "md5": "377c41f812d755faccfb595d08ceb795",
+      "path": "textures/boulder_01_diff_1k.png"
+    },
+    {
+      "size": 5734156,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/boulder_01/boulder_01_nor_dx_1k.png",
+      "md5": "c0799b7a5bf05ec58b012b4df0821e5b",
+      "path": "textures/boulder_01_nor_dx_1k.png"
+    },
+    {
+      "size": 1731380,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/boulder_01/boulder_01_rough_1k.png",
+      "md5": "22102bed85b9de0d6489ba461a8ac641",
+      "path": "textures/boulder_01_rough_1k.png"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "method": "author CORNER FLOAT_VECTOR UVMap.xy copied exactly to FLOAT2; no projection",
+  "equal_original": true,
+  "parts": [
+    {
+      "material": "fir_tree_01_bark",
+      "polygons": 4768,
+      "uv_loop_count": 19072,
+      "uv_min": [
+        0.0,
+        0.20000000298023224
+      ],
+      "uv_max": [
+        1.0,
+        0.800000011920929
+      ],
+      "uv_std": [
+        0.31011858582496643,
+        0.16268682479858398
+      ]
+    },
+    {
+      "material": "fir_tree_01_twig",
+      "polygons": 225782,
+      "uv_loop_count": 897638,
+      "uv_min": [
+        0.00954437255859375,
+        0.007795747369527817
+      ],
+      "uv_max": [
+        0.26327380537986755,
+        1.266947865486145
+      ],
+      "uv_std": [
+        0.06571988016366959,
+        0.2891246974468231
+      ],
+      "alpha_samples": 225783,
+      "alpha_above_clip033": 1.0,
+      "alpha_mean": 0.9738256931304932,
+      "alpha_std": 0.10370875895023346,
+      "alpha_min": 0.43804073333740234,
+      "alpha_max": 1.0
+    },
+    {
+      "material": "fir_tree_01_dead_branches",
+      "polygons": 1946,
+      "uv_loop_count": 7508,
+      "uv_min": [
+        0.1596347540616989,
+        0.21454006433486938
+      ],
+      "uv_max": [
+        0.5843070149421692,
+        0.7854599356651306
+      ],
+      "uv_std": [
+        0.10801316797733307,
+        0.1581408977508545
+      ]
+    },
+    {
+      "material": "fir_tree_01_trunk_c",
+      "polygons": 23186,
+      "uv_loop_count": 92640,
+      "uv_min": [
+        0.005346514750272036,
+        -1.0000001192092896
+      ],
+      "uv_max": [
+        5.000000476837158,
+        0.9929043054580688
+      ],
+      "uv_std": [
+        0.4934808611869812,
+        0.3197771906852722
+      ]
+    }
+  ]
+}

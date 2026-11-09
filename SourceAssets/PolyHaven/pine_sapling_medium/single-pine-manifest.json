@@ -1,0 +1,35 @@
+{
+  "source": "pine_sapling_medium_1k.fbx",
+  "source_sha256": "8c2811d5b7be4a22005ba90feba33fb0bb15682e1c03a310002712139117852f",
+  "selected_object": "pine_sapling_medium_a_LOD0",
+  "output": "pine_single_a.fbx",
+  "size": 94648396,
+  "sha256": "2257f40735f9933a65683c970c38bd924fcac74899189f38e73bf4ffad245964",
+  "bounds_metres": [
+    [
+      -2.6047024726867676,
+      -2.5356979370117188,
+      -0.20430321991443634
+    ],
+    [
+      2.575127124786377,
+      2.20644474029541,
+      11.288838386535645
+    ]
+  ],
+  "vertices": 2611648,
+  "polygons": 2212938,
+  "materials": [
+    "pine_sapling_medium_bark",
+    "pine_sapling_medium_twig",
+    "pine_sapling_medium_dead_branches"
+  ],
+  "blender": "4.4.3",
+  "roundtrip_verified": true,
+  "origin_metres": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "recipe": "Scripts/ExportSinglePine.py"
+}
