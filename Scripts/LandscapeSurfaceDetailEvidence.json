@@ -1,0 +1,17 @@
+{
+  "decision": "Smallest supported visual-only path is MaxLODLevel=0 on the actual existing ALandscape. Nanite not enabled because native rebuild/completion APIs are not UFUNCTIONs; avoid invented Python calls or shared C++ edits/build delay.",
+  "official_api": "https://dev.epicgames.com/documentation/en-us/unreal-engine/python-api/class/Landscape?application_version=5.5",
+  "official_nanite_api": "https://dev.epicgames.com/documentation/unreal-engine/API/Runtime/Landscape/ALandscapeProxy/UpdateNaniteRepresentation?lang=en-US",
+  "installed_source": {
+    "Classes/LandscapeProxy.h": "09ff51b3b097c21d908e854ebd48a6fa242f61d24dc79c2712c4497c2b64d2a8",
+    "Private/LandscapeRender.cpp": "ff1b3ad53837dbca32c2fdee179a7e7e51b163d2376b5233918e2e11eb199b96",
+    "Private/LandscapeEdit.cpp": "1fc0e54ffc9e805fb769afe29c7c7e7001787e2c33f91bc1fa20f789dfe9ad69",
+    "Public/LandscapeSubsystem.h": "d3022cd7d2c75245d9cbadeefe99161ed162af60b8ba6c42f0779e51eb99863b"
+  },
+  "entrypoint": "import ApplyLandscapeSurfaceDetail; ApplyLandscapeSurfaceDetail.apply()",
+  "owner_sequence": "After fresh backup, load existing TestSlope, apply this helper during combined forest/snow apply, save ONLY after all helpers pass, capture then smoke. NEVER regenerate CreateTestLevel.",
+  "limits": "No DEM interpolation, displacement or collision edits. LOD0 prevents additional distance-driven mesh coarsening but cannot remove facets already present in the 5m source. Higher GPU geometry cost across 10km terrain. Snow worldaligned normal changes handle shading separately. Nanite alone would still retain the same 5m source detail.",
+  "validation": "Offline Python compile/AST PASS. No editor, build or runtime apply performed.",
+  "helper_sha256": "c9589e1733dcf6ca6049a3b8c135fe395d07a6da586f3b2b5667da30cdb4086b",
+  "source_evidence": "LandscapeProxy.h MaxLODLevel is EditAnywhere max rendering LOD. LandscapeRender.cpp clamps MaxLOD and LastLOD to MaxLODLevel. LandscapeEdit.cpp clamps editor MaxLODLevel to [-1, log2(section verts)-1]. Proxy UpdateNaniteRepresentation is not UFUNCTION and explicitly requires FinishAllNaniteBuildsInFlightNow completion."
+}

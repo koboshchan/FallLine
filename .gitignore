@@ -1,0 +1,31 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+*.VC.db
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+# Epic template content must be restored from your own engine installation.
+Content/Characters/
+Content/Megascans/
+Content/Fab/
+Content/Quixel/
+# Reproducible downloads, tile caches and generated captures.
+Downloads/
+Captures/
+Screenshots/
+SourceAssets/DEM/python/
+SourceAssets/DEM/*.tif
+SourceAssets/DEM/*.npy
+SourceAssets/DEM/*preview*
+SourceAssets/DEM/swiss-stac*.json
+SourceAssets/PolyHaven/**/*.fbx
+SourceAssets/PolyHaven/**/*.blend
+SourceAssets/PolyHaven/**/*.png
+SourceAssets/PolyHaven/**/*.jpg
+SourceAssets/PolyHaven/**/download*.cmd
